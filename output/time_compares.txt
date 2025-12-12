@@ -1,0 +1,4 @@
+Framework,Time(s)
+TextBlob,0.21338
+Nltk,0.066795
+Spacy,5.920408
